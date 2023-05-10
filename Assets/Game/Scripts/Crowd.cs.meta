@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: d090051b120fd654ea23cf6031706f01
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pfSpectator1: {fileID: 919132149155446097, guid: 592dd073c534a7c4cba35cc93f03429d,
+      type: 3}
+  - pfSpectator2: {instanceID: 0}
+  - pfSpectator3: {instanceID: 0}
+  - pfSpectator4: {instanceID: 0}
+  - pfSpectator5: {instanceID: 0}
+  - pfSpectator6: {instanceID: 0}
+  - pfSpectator7: {instanceID: 0}
+  - pfSpectator8: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
